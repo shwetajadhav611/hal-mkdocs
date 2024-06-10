@@ -1,0 +1,13 @@
+site_name: HAL Layer in AOSP
+nav:
+  - AOSP Architecture: index.md
+  - HAL Layer : hal-details.md
+  - Types of HALs:
+      - Camera HAL: hal-types/camerahal.md
+      - Audio HAL: hal-types/audiohal.md
+      - GNSS HAL : hal-types/gnsshal.md
+      - Bluetooth HAL : hal-types/bluetoothhal.md
+  - Architecture: architecture.md
+
+theme:
+  name: material
